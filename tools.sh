@@ -5,7 +5,7 @@ clear
 
 
 echo ""
-echo -e "SUBSCRIBE MY CHANNEL"
+echo -e "DON'T USE FOR ILLEGAL ACTIVITIES"
 echo ""
 
 echo -e "\e[101m Press Enter \e[0m"
