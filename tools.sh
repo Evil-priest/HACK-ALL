@@ -17,10 +17,10 @@ clear
 
 toilet -f future "TECH COCHI" | lolcat
 echo "-------------------------------------------------------" | lolcat
-echo   "Author   : TECH COCHI $white" |lolcat
-echo   "Contact  : https://t.me/techcochiyoutuber $white" |lolcat
-echo   "YouTube  : TECH COCHI $white" |lolcat
-echo   "Blog     : https://techcoch.blogspot.com $white" |lolcat
+echo   "Author   : Evil-priest $white" |lolcat
+echo   "Contact  : http://wa.me/+919188434967 $white" |lolcat
+echo   "YouTube  : P R I E S T $white" |lolcat
+echo   "Blog     : not available soon $white" |lolcat
 echo "-------------------------------------------------------" | lolcat
 echo "                           v2.0              " | lolcat
 ###################################################
@@ -34,7 +34,7 @@ echo ""
 echo  "⚠️NOT FOR ILLEGEL USE⚠️"
 sleep 1
 echo ""
-echo "TECH-COCHI" | lolcat
+echo "Evil-priest" | lolcat
 echo ""
 echo "BYE BYE 👋👋..." | lolcat
 echo ""
@@ -277,7 +277,7 @@ bash saycheese.sh
 ;;
 
 
-00) echo "created by : TECH-COCHI" | lolcat
+00) echo "created by : Evil-priest" | lolcat
 exit
 ;;
 
