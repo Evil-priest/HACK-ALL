@@ -47,9 +47,9 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/rixon-cochi/hacking-tool.git`
+* `git clone https://github.com/Evil-priest/HACK-ALL.git`
 
-* `cd hacking-tool`
+* `cd HACK-ALL`
 
 * `bash install.sh`
 
