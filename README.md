@@ -1,5 +1,5 @@
 
-# HACKING TOOLS                   
+# HACK-ALL   
 
 
 
@@ -20,14 +20,14 @@
 
 ### Introduction
 
-* hacking tool recorded by PRIEST
+* this tool is recorded by PRIEST
 15 hacking tools included in this code
 
 -------------------------------------------------------------------------------------
 
 ### Operating System Requirements
 
-hacking-tool works on 
+HACK-ALL works on 
 
 • **Android** (Using the Termux App) <br>
 
